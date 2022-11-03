@@ -1,4 +1,4 @@
-appyear,nclass,patent,nonutility,n_claims,n_bcites,n_fcites,n_nplcites,complexity,originality,generality
+appyear,classId,patent,nonutility,n_claims,n_bcites,n_fcites,n_nplcites,complexity,originality,generality
 2000,280,"6076844",0,5,3,5,0,5.567032,.4444444,.3203125
 2000,118,"6096133",0,3,4,8,2,5.532214,.375,.5493827
 2000,430,"6096464",0,12,7,2,10,5.536517,0,.345679
